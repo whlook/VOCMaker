@@ -22,6 +22,10 @@ o	|完成标注并自动生成xml|
 
 5.完成数据集的制作
 
+演示：
+
+![demo](https://github.com/whlook/VOCMaker/blob/master/pics/test.gif)
+
 #### 说明
 
 工具比较简陋，本机环境可以正常使用，主要是opencv环境，如果无法运行，可以检查一下opencv环境和文件目录是否正确。
