@@ -29,3 +29,5 @@ o	|完成标注并自动生成xml|
 #### 说明
 
 工具简陋但使用也算方便，本机环境可以正常运行，主要是opencv环境，如果无法运行，可以检查一下opencv环境和文件目录是否正确。
+
+[相关blog](http://www.cnblogs.com/whlook/p/7220105.html)
